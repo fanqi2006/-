@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<idspace id="lindenbox">
+	<!--
+	<Class ClassID="1" GroupName="LindenBoxType1" Loop="1" ItemName="GrowthStone" Ratio="700" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="2" GroupName="LindenBoxType1" Loop="1" ItemName="EleCrystal" Ratio="500" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="3" GroupName="LindenBoxType1" Loop="1" ItemName="Dazzling_LuminBox" Ratio="700" Broadcast="FALSE" Count="5" Grade="4"/>
+	<Class ClassID="4" GroupName="LindenBoxType1" Loop="1" ItemName="Arche_Lumin" Ratio="100" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="5" GroupName="LindenBoxType1" Loop="1" ItemName="Cyllene_Lumin" Ratio="100" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="6" GroupName="LindenBoxType1" Loop="1" ItemName="BarrackSlot" Ratio="600" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="7" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_37" Ratio="500" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="8" GroupName="LindenBoxType1" Loop="1" ItemName="Master_Redmercury" Ratio="500" Broadcast="FALSE" Count="20" Grade="4"/>
+	<Class ClassID="9" GroupName="LindenBoxType1" Loop="1" ItemName="Ampul_Karin_Missionpoint" Ratio="500" Broadcast="FALSE" Count="5" Grade="4"/>
+	<Class ClassID="10" GroupName="LindenBoxType1" Loop="1" ItemName="Coupon_RetryRullet" Ratio="500" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="11" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_7" Ratio="80" Broadcast="FALSE" Count="2" Grade="4"/>	
+	<Class ClassID="12" GroupName="LindenBoxType1" Loop="1" ItemName="linden_Artifact_Stone" Ratio="50" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="13" GroupName="LindenBoxType1" Loop="1" ItemName="linden_Achieve_Stone" Ratio="50" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="14" GroupName="LindenBoxType1" Loop="1" ItemName="linden_WeaponCos_Stone" Ratio="50" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="15" GroupName="LindenBoxType1" Loop="1" ItemName="sthhma" Ratio="400" Broadcast="FALSE" Count="30" Grade="4"/>
+	<Class ClassID="16" GroupName="LindenBoxType1" Loop="1" ItemName="Expert_PetBox_Stone3_Ev" Ratio="100" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="17" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronPowder_Box" Ratio="100" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="18" GroupName="LindenBoxType1" Loop="1" ItemName="2017_CharCard_Stone" Ratio="50" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="19" GroupName="LindenBoxType1" Loop="1" ItemName="SocketProtect" Ratio="200" Broadcast="FALSE" Count="15" Grade="4"/>
+	<Class ClassID="20" GroupName="LindenBoxType1" Loop="1" ItemName="RingC_Warlock" Ratio="10" Broadcast="TRUE" Count="1" Grade="4"/>
+	<Class ClassID="21" GroupName="LindenBoxType1" Loop="1" ItemName="Card_Chungha" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="22" GroupName="LindenBoxType1" Loop="1" ItemName="Royal_Package_Chungha" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="23" GroupName="LindenBoxType1" Loop="1" ItemName="Card_RioRare" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="24" GroupName="LindenBoxType1" Loop="1" ItemName="Royal_Package_RioRare" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="25" GroupName="LindenBoxType1" Loop="1" ItemName="Manual_AcElemental" Ratio="20" Broadcast="TRUE" Count="1" Grade="1"/>
+	-->
+	<!--Lindenbox basic-->
+	<Class ClassID="1" GroupName="LindenBoxType1" Loop="1" ItemName="GrowthStone" Ratio="900" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="2" GroupName="LindenBoxType1" Loop="1" ItemName="GrowthStone" Ratio="800" Broadcast="FALSE" Count="5" Grade="4"/>
+	<Class ClassID="3" GroupName="LindenBoxType1" Loop="1" ItemName="GrowthStone" Ratio="800" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="4" GroupName="LindenBoxType1" Loop="1" ItemName="GrowthStone" Ratio="700" Broadcast="FALSE" Count="15" Grade="4"/>
+	<Class ClassID="5" GroupName="LindenBoxType1" Loop="1" ItemName="GrowthStone" Ratio="700" Broadcast="FALSE" Count="20" Grade="4"/>
+	<Class ClassID="6" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_28" Ratio="900" Broadcast="FALSE" Count="20" Grade="4"/>
+	<Class ClassID="7" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_28" Ratio="800" Broadcast="FALSE" Count="30" Grade="4"/>
+	<Class ClassID="8" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_28" Ratio="800" Broadcast="FALSE" Count="40" Grade="4"/>
+	<Class ClassID="9" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_28" Ratio="700" Broadcast="FALSE" Count="50" Grade="4"/>
+	<Class ClassID="10" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_29" Ratio="900" Broadcast="FALSE" Count="20" Grade="4"/> 
+	<Class ClassID="11" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_29" Ratio="600" Broadcast="FALSE" Count="30" Grade="4"/>
+	<Class ClassID="12" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_29" Ratio="800" Broadcast="FALSE" Count="50" Grade="4"/>
+	<Class ClassID="13" GroupName="LindenBoxType1" Loop="1" ItemName="CouponLv_29" Ratio="500" Broadcast="FALSE" Count="100" Grade="4"/>
+	<Class ClassID="14" GroupName="LindenBoxType1" Loop="1" ItemName="sthhma" Ratio="700" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="15" GroupName="LindenBoxType1" Loop="1" ItemName="sthhma" Ratio="500" Broadcast="FALSE" Count="20" Grade="4"/>
+	<Class ClassID="16" GroupName="LindenBoxType1" Loop="1" ItemName="sthhma" Ratio="400" Broadcast="FALSE" Count="30" Grade="4"/>
+	<Class ClassID="17" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_39" Ratio="900" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="18" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_39" Ratio="800" Broadcast="FALSE" Count="5" Grade="4"/>
+	<Class ClassID="19" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_39" Ratio="300" Broadcast="FALSE" Count="7" Grade="4"/>
+	<Class ClassID="20" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_39" Ratio="100" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="21" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_40" Ratio="500" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="22" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_40" Ratio="400" Broadcast="FALSE" Count="3" Grade="4"/> 
+	<Class ClassID="23" GroupName="LindenBoxType1" Loop="1" ItemName="ValeronBlessing_40" Ratio="300" Broadcast="FALSE" Count="5" Grade="4"/>
+	<Class ClassID="24" GroupName="LindenBoxType1" Loop="1" ItemName="Master_Redmercury" Ratio="900" Broadcast="FALSE" Count="10" Grade="4"/>
+	<Class ClassID="25" GroupName="LindenBoxType1" Loop="1" ItemName="Master_Redmercury" Ratio="800" Broadcast="FALSE" Count="20" Grade="4"/>
+	<Class ClassID="26" GroupName="LindenBoxType1" Loop="1" ItemName="Master_Redmercury" Ratio="500" Broadcast="FALSE" Count="30" Grade="4"/>
+	<Class ClassID="27" GroupName="LindenBoxType1" Loop="1" ItemName="linden_Artifact_Stone" Ratio="80" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="28" GroupName="LindenBoxType1" Loop="1" ItemName="linden_Achieve_Stone" Ratio="80" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="29" GroupName="LindenBoxType1" Loop="1" ItemName="Dazzling_LuminBox" Ratio="500" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="30" GroupName="LindenBoxType1" Loop="1" ItemName="Dazzling_LuminBox" Ratio="300" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="31" GroupName="LindenBoxType1" Loop="1" ItemName="StatusAmpul_Total" Ratio="200" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="32" GroupName="LindenBoxType1" Loop="1" ItemName="Pet_Food" Ratio="300" Broadcast="FALSE" Count="50" Grade="4"/>
+	<Class ClassID="33" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_7" Ratio="200" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="34" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_8" Ratio="200" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="35" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_9" Ratio="200" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="36" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_7" Ratio="100" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="37" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_8" Ratio="100" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="38" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_9" Ratio="100" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="39" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_7" Ratio="100" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="40" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_8" Ratio="100" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="41" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_4_9" Ratio="100" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="42" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_7" Ratio="200" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="43" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_8" Ratio="200" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="44" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_9" Ratio="200" Broadcast="FALSE" Count="1" Grade="4"/>
+	<Class ClassID="45" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_7" Ratio="200" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="46" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_8" Ratio="800" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="47" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_9" Ratio="100" Broadcast="FALSE" Count="2" Grade="4"/>
+	<Class ClassID="48" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_7" Ratio="100" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="49" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_8" Ratio="100" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="50" GroupName="LindenBoxType1" Loop="1" ItemName="ReinProtect_5_9" Ratio="100" Broadcast="FALSE" Count="3" Grade="4"/>
+	<Class ClassID="51" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Obsidian" Ratio="80" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="52" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Spodumene" Ratio="80" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="53" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Kunzite" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="54" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Aquamarin" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="55" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Jade" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="56" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Cyllene" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="57" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Kore" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="58" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Arche" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="59" GroupName="LindenBoxType1" Loop="1" ItemName="Rylumin_Carpo" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="60" GroupName="LindenBoxType1" Loop="1" ItemName="Kallichore_Lumin" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="61" GroupName="LindenBoxType1" Loop="1" ItemName="CharCardStone_Terra" Ratio="30" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="62" GroupName="LindenBoxType1" Loop="1" ItemName="Token_Pergeterra" Ratio="100" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="63" GroupName="LindenBoxType1" Loop="1" ItemName="Token_LeionTerra" Ratio="50" Broadcast="TRUE" Count="2" Grade="1"/>
+	<Class ClassID="64" GroupName="LindenBoxType1" Loop="1" ItemName="CosStone_MELEE_M" Ratio="50" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="65" GroupName="LindenBoxType1" Loop="1" ItemName="linden_WeaponCos_Stone" Ratio="40" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="66" GroupName="LindenBoxType1" Loop="1" ItemName="WepCosStone_Curse" Ratio="20" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="67" GroupName="LindenBoxType1" Loop="1" ItemName="Card_Harry" Ratio="60" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="68" GroupName="LindenBoxType1" Loop="1" ItemName="Manual_SupremeDivision" Ratio="50" Broadcast="TRUE" Count="1" Grade="1"/>
+
+	<!--Lindenbox 100 Try bonus-->
+	<Class ClassID="1000" GroupName="Lindenbox100Bonus" Loop="1" ItemName="Elite_ArmoniaRing" Ratio="500" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="1100" GroupName="Lindenbox100Bonus" Loop="1" ItemName="Alt_Sandglass" Ratio="500" Broadcast="TRUE" Count="1" Grade="1"/>
+	<!--Lindenbox 200 Try bonus-->
+	<Class ClassID="1200" GroupName="Lindenbox100Bonus" Loop="2" ItemName="GrowthStone" Ratio="1000" Broadcast="TRUE" Count="588" Grade="1"/>
+	<!--Lindenbox 300 Try bonus-->
+	<Class ClassID="1300" GroupName="Lindenbox100Bonus" Loop="3" ItemName="Pet_Box_Stella" Ratio="1000" Broadcast="TRUE" Count="1" Grade="1"/>
+	<!--Lindenbox 400 Try bonus-->
+	<Class ClassID="1400" GroupName="Lindenbox100Bonus" Loop="4" ItemName="LindenBox" Ratio="1000" Broadcast="TRUE" Count="40" Grade="1"/>
+	<!--Lindenbox 500 Try bonus-->
+	<Class ClassID="1500" GroupName="Lindenbox100Bonus" Loop="5" ItemName="MedalofBeginner" Ratio="1000" Broadcast="TRUE" Count="1" Grade="1"/>
+	<Class ClassID="1501" GroupName="Lindenbox100Bonus" Loop="5" ItemName="Elite_AbyssRing" Ratio="1000" Broadcast="TRUE" Count="1" Grade="1"/>
+</idspace>
